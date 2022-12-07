@@ -91,6 +91,17 @@
             "value": "300",
             "required": false
         }
+        "USER_SESSION": {
+            "description": "The maximum amount of time in seconds that the result of the inline query may be cached on the server",
+            "value": "",
+            "required": false
+        }
+        "USERBOT_STRING_SESSION": {
+            "description": "The maximum amount of time in seconds that the result of the inline query may be cached on the server",
+            "value": "",
+            "required": false
+        }
+
     },
     "addons": [],
     "buildpacks": [

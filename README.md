@@ -42,7 +42,8 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/patelboss/Rashmika_mandanana_bot/patelboss-patch-3/"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
