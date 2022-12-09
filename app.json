@@ -58,7 +58,12 @@
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "value": "",
             "required": false
-        },   
+        },
+         "FILE_STORE_CHANNEL": {
+            "description": "ID of channel.Make sure bot is admin in this channel.",
+            "value": "",
+            "required": false
+        },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
